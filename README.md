@@ -10,7 +10,7 @@ The eyes simulator is available at: https://www.cl.cam.ac.uk/research/rainbow/pr
 
 ![GazeEstimation](/GazeEstimation.png)
 
-Code structure:
+**Code structure:**
 
   main.py - calls for training and testing routines
   
@@ -29,6 +29,7 @@ Code structure:
   OccupancyHistogram.py - checks simulated data quality
   
   ScreenFit.py - a basic example for calibration of the final estimation to one person
+  
 
 The train set images should be in the following folder: UnityEyes\imgs\
 
@@ -42,7 +43,7 @@ On the test phase you might control the parameter show_vid in the main.py file t
 
 Our project is based on two previous work by Seonwook Park, et al in https://github.com/swook/GazeML [2], [3]
 
-Refrences:
+**Refrences:**
 
 [1] Wood E, et al. “Learning an Appearance-Based Gaze Estimator from One Million Synthesized
 Images”. ETRA, 131-138 (2016).
