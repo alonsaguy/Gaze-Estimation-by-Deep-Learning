@@ -21,12 +21,12 @@ The eyes simulator is available at: https://www.cl.cam.ac.uk/research/rainbow/pr
   
 
 The train set images should be in the following folder: UnityEyes\imgs\
-On the train phase the model parameters would be saved in a directory named "outputs" 
+On the train phase the model parameters would be saved in a directory named "outputs".
 On the test phase you might control the parameter show_vid in the main.py file to either option:
 * True - showing a real time video of the person with the estimated gaze vector
 * False - showing the estimated focus coordinates on the screen
 
-Our project is based on two previous work by Seonwook Park, et al in https://github.com/swook/GazeML [2], [3]
+Our project is based on previous work by Seonwook Park, et al in https://github.com/swook/GazeML [2], [3]
 
 **Refrences:**
 
