@@ -38,5 +38,6 @@ Images”. ETRA, 131-138 (2016).
 [3] Seonwook Park, Adrian Spurr, and Otmar Hilliges. "Deep Pictorial Gaze Estimation". In European Conference on Computer Vision (2018).
 
 This project was done under the supervision of VISL lab, The Technion - Israel Institute of Technology
-<img src="/VISL_logo.PNG" data-canonical-src="/VISL_logo.PNG" width="700" height="150" />
+<img src="/VISL_logo.PNG" data-canonical-src="/VISL_logo.PNG" width="900" height="200" />
 
+Project participants: Alon Saguy and Avi Semo
