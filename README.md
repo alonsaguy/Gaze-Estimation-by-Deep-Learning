@@ -6,7 +6,6 @@ The training set is using simulated images of human eyes created by eye simulato
 The eyes simulator is available at: https://www.cl.cam.ac.uk/research/rainbow/projects/unityeyes/
 
 ![GazeEstimation](/GazeEstimation.png)
-Format: ![Alt Text](url)
 
 Code structure:
   main.py - calls for training and testing routines
@@ -21,10 +20,10 @@ Code structure:
 
 On the train phase the model parameters would be saved in a directory named "outputs" 
 On the test phase you might control the parameter show_vid in the main.py file to either option:
-true - showing a real time video of the person with the estimated gaze vectors
-false - showing the estimated focus coordinates on the screen
+  True - showing a real time video of the person with the estimated gaze vectors
+  False - showing the estimated focus coordinates on the screen
 
-Our project is based on two previous work by Seonwook Park, et al in https://github.com/swook/GazeML
+Our project is based on two previous work by Seonwook Park, et al in https://github.com/swook/GazeML [2], [3]
 
 Refrences:
 [1] Wood E, et al. “Learning an Appearance-Based Gaze Estimator from One Million Synthesized
