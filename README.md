@@ -5,7 +5,8 @@ The algorithm estimated the gaze direction using convolutional neural network (C
 The training set is using simulated images of human eyes created by eye simulator named UnityEyes [1].
 The eyes simulator is available at: https://www.cl.cam.ac.uk/research/rainbow/projects/unityeyes/
 
-
+![GazeEstimation](/images/GazeEstimation.png)
+Format: ![Alt Text](url)
 
 Code structure:
   main.py - calls for training and testing routines
