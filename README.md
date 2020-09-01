@@ -11,24 +11,15 @@ The eyes simulator is available at: https://www.cl.cam.ac.uk/research/rainbow/pr
 ![GazeEstimation](/GazeEstimation.png)
 
 **Code structure:**
-
-  main.py - calls for training and testing routines
-  
-  core.py - controls the neural network runs
-  
-  elg.py - containing eye lendmarks model and estimation methods
-  
-  UnityEyes.py - containing function that reads UnityEyes data sets
-  
-  util.py - usefull functions for the entire project
-  
-  video.py - manages the display on the monitor
-  
-  decriptor.py - tranlates the gaze vector to a coordinate on the monitor
-  
-  OccupancyHistogram.py - checks simulated data quality
-  
-  ScreenFit.py - a basic example for calibration of the final estimation to one person
+* main.py - calls for training and testing routines  
+* core.py - controls the neural network runs
+* elg.py - containing eye lendmarks model and estimation methods
+* UnityEyes.py - containing function that reads UnityEyes data sets  
+* util.py - usefull functions for the entire project
+* video.py - manages the display on the monitor
+* decriptor.py - tranlates the gaze vector to a coordinate on the monitor
+* OccupancyHistogram.py - checks simulated data quality
+* ScreenFit.py - a basic example for calibration of the final estimation to one person
   
 
 The train set images should be in the following folder: UnityEyes\imgs\
