@@ -36,3 +36,7 @@ Images”. ETRA, 131-138 (2016).
 [2] Seonwook Park, Xucong Zhang, Andreas Bulling, and Otmar Hilliges. "Learning to find eye region landmarks for remote gaze estimation in unconstrained settings." In Proceedings of the 2018 ACM Symposium on Eye Tracking Research & Applications, p. 21. ACM, (2018).
 
 [3] Seonwook Park, Adrian Spurr, and Otmar Hilliges. "Deep Pictorial Gaze Estimation". In European Conference on Computer Vision (2018).
+
+This project was done under the supervision of VISL lab, The Technion - Israel Institute of Technology
+<img src="/VISL_logo.png" data-canonical-src="/VISL_logo.png" width="700" height="150" />
+
