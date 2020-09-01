@@ -8,6 +8,7 @@ The eyes simulator is available at: https://www.cl.cam.ac.uk/research/rainbow/pr
 ![GazeEstimation](/GazeEstimation.png)
 
 Code structure:
+
   main.py - calls for training and testing routines
   core.py - controls the neural network runs
   elg.py - containing eye lendmarks model and estimation methods
@@ -18,6 +19,7 @@ Code structure:
   OccupancyHistogram.py - checks simulated data quality
   ScreenFit.py - a basic example for calibration of the final estimation to one person
 
+The train set images should be in the following folder: UnityEyes\imgs\
 On the train phase the model parameters would be saved in a directory named "outputs" 
 On the test phase you might control the parameter show_vid in the main.py file to either option:
   True - showing a real time video of the person with the estimated gaze vectors
